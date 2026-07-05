@@ -1,0 +1,24 @@
+{
+    "overall": {
+        "accuracy": 94.8,
+        "loss": 0.1673052535308525
+    },
+    "class_0": {
+        "precision": 0.9375,
+        "recall": 0.96,
+        "f1-score": 0.9486166007905138,
+        "support": 500.0
+    },
+    "class_1": {
+        "precision": 0.9590163934426229,
+        "recall": 0.936,
+        "f1-score": 0.9473684210526315,
+        "support": 500.0
+    },
+    "confusion_matrix": {
+        "TP": 468,
+        "FP": 20,
+        "TN": 480,
+        "FN": 32
+    }
+}
